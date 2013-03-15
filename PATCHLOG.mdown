@@ -1,0 +1,17 @@
+# Patchlog
+
+This is the patched 9e Rails 3.0 Version to centrally apply security patches. It is based on Rails 3.0.20.
+
+## P00
+
+* Clean Rails 3.0.20
+
+## P01
+
+* Fixes [CVE-2013-0276](https://groups.google.com/forum/#!topic/rubyonrails-security/AFBKNY7VSH8/discussion)
+* Applied Patch for v3.0
+
+## P02
+
+* Fixes [CVE-2013-0276](https://groups.google.com/forum/#!topic/rubyonrails-security/KtmwSbEpzrU/discussion)
+* Applied Patch for v3.0
